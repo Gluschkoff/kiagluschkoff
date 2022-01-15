@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: mr robot
 day_night: true
 font: ''
 font_size: L
@@ -21,18 +21,15 @@ twitter: ''
 # Yhteystiedot (edit or remove options as required)
 
 email: kia.gluschkoff@gmail.com
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/KGluschkoff'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/kiagluschkoff/'
 
 
 # Site header
@@ -48,9 +45,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: 'Monday, 02 Jan 2006'
+time_format: '15:04'
+address_format: fi
 
 # Site features
 
