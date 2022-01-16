@@ -20,12 +20,14 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- icon: chart-line
+- description: 100%
+  icon: chart-line
   icon_pack: fas
-  name: Tilastotiede ja datatiede
-- icon: analytics
+  name: Statistics
+- description: 10%
+  icon: camera-retro
   icon_pack: fas
-  name: Tiedon visualisointi
+  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
