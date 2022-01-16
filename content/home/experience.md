@@ -25,7 +25,7 @@ experience:
   - title: Erityisasiantuntija, tilastotiede
     company: Työterveyslaitos
     company_url: ''
-    company_logo: org-gc
+    company_logo: TTL
     location: Helsinki
     date_start: '2021-01-04'
     date_end: ''
