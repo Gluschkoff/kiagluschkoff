@@ -23,7 +23,7 @@ role: Tutkija, tilastotieteilijä, datavelho
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#Yhteystiedot
+  link: /#yhteys
 - display:
     header: true
   icon: twitter
@@ -44,4 +44,4 @@ title: Kia Gluschkoff
 
 Olen R-ohjelmoinnista ja tiedon visualisonnista innostunut tilastotielijä ja tutkija (PsT, dosentti). 
 
-{{< icon name="download" pack="fas" >}} Lataa CV {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Lataa {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
