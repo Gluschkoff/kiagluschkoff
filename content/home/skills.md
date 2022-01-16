@@ -21,11 +21,11 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: analytics
+  icon: chart-line
   icon_pack: fas
   name: Tiedon visualisointi
 - description: 
-  icon: user-chart
+  icon: robot
   icon_pack: fas
   name: Data-analytiikka
 
