@@ -11,7 +11,7 @@ education:
     year: 2014
   - course: Psykologian maisteri
     institution: Helsingin yliopisto
-    year: 2015
+    year: 2005
 email: ""
 highlight_name: true
 interests:
@@ -19,7 +19,7 @@ interests:
 - Tiedon visualisointi
 - Analytiikka
 
-role: Tutkija, tilastotieteilijä, datavelho
+role: Tilastotieteilijä, tutkija, datavelho
 social:
 - icon: envelope
   icon_pack: fas
