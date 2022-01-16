@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: mr robot
+theme: minimal
 day_night: true
 font: ''
 font_size: L
@@ -26,10 +26,10 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/KGluschkoff'
-  - icon: linkedin
-    icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/kiagluschkoff/'
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   name: LinkedIn
+  #   link: 'https://www.linkedin.com/in/kiagluschkoff/'
 
 
 # Site header
