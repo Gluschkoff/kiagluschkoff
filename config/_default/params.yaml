@@ -20,16 +20,16 @@ twitter: ''
 
 # Yhteystiedot (edit or remove options as required)
 
-email: kia.gluschkoff@gmail.com
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/KGluschkoff'
-  - icon: linkedin
-    icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/kiagluschkoff/'
+# email: kia.gluschkoff@gmail.com
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Twitter
+#     link: 'https://twitter.com/KGluschkoff'
+#   - icon: linkedin
+#     icon_pack: fab
+#     name: LinkedIn
+#     link: 'https://www.linkedin.com/in/kiagluschkoff/'
 
 
 # Site header
