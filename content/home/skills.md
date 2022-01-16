@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Osaaminen
 subtitle:
 
 # Showcase personal skills or business features.
@@ -28,6 +28,12 @@ feature:
   icon: robot
   icon_pack: fas
   name: Data-analytiikka
+- icon: university
+  icon_pack: fas
+  name: Koulutus
+- icon: book-open
+  icon_pack: fas
+  name: Tutkimus
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
