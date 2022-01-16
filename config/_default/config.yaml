@@ -59,6 +59,7 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+
 related:
   threshold: 80
   includeNewer: true
@@ -70,3 +71,4 @@ related:
       weight: 70
 security:
   _merge: deep
+
