@@ -22,7 +22,7 @@ role: Tilastotieteilijä, tutkija, datavelho
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#yhteys
+  link: /#contact
 - display:
     header: true
   icon: twitter
@@ -31,6 +31,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fi/citations?user=64TUnEQAAAAJ&hl
+- icon: researchgate
+  icom_pack: ai
+  link: https://www.researchgate.net/profile/Kia-Gluschkoff
 - icon: github
   icon_pack: fab
   link: https://github.com/Gluschkoff
