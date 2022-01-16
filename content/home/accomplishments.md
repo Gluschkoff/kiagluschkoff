@@ -23,15 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
--   date_start: "2018-11-24"
+- certificate_url: https://www.linkedin.com/learning/me/completed
+  date_start: "2018-11-24"
   organization: LinkedIn Learning
   title: Learning the R Tidyverse
-- date_start: "2020-11-29"
+- certificate_url: https://www.linkedin.com/learning/me/completed
+  date_start: "2020-11-29"
   description: ""
   organization: LinkedIn Learning
   title: Data Visulization in R with ggplot2
   url: ""
-- date_end: ""
+- certificate_url: https://www.linkedin.com/learning/me/completed
+  date_end: ""
   date_start: "2018-12-26"
   description: ""
   organization: LinkedIn Learning
