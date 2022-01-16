@@ -32,7 +32,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.fi/citations?user=64TUnEQAAAAJ&hl
 - icon: researchgate
-  icom_pack: ai
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Kia-Gluschkoff
 - icon: github
   icon_pack: fab
