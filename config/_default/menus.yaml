@@ -7,9 +7,9 @@ main:
   - name: Kia
     url: '#Kia'
     weight: 10
-  - name: Blogi
-    url: '#blogi'
-    weight: 20
+  # - name: Blogi
+  #   url: '#blogi'
+  #   weight: 20
   - name: Kurssit
     url: kurssit/
     weight: 30
