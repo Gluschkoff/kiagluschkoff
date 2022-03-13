@@ -44,6 +44,6 @@ superuser: true
 title: Kia Gluschkoff
 ---
 
-Olen R-ohjelmoinnista ja tiedon visualisonnista innostunut tilastotielijä ja tutkija (PsT, dosentti). 
+Olen R-ohjelmoinnista ja tiedon visualisonnista innostunut tilastotielijä ja tutkija (PsT, dosentti). Tarjoan koulutusta R-ohjelmointiin (1-2 päivän peruskurssi) ja tilastotieteen palveluita. 
 
 {{< icon name="download" pack="fas" >}} Lataa {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
