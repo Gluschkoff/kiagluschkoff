@@ -3,16 +3,16 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
-  - name: Kia
-    url: '#Kia'
-    weight: 10
-  # - name: Blogi
-  #   url: '#blogi'
-  #   weight: 20
-  - name: Kurssit
-    url: kurssit/
-    weight: 30
-  - name: Yhteystiedot
-    url: '#yhteys'
-    weight: 40
+# main:
+#   - name: Kia
+#     url: '#Kia'
+#     weight: 10
+#   # - name: Blogi
+#   #   url: '#blogi'
+#   #   weight: 20
+#   - name: Kurssit
+#     url: kurssit/
+#     weight: 30
+#   - name: Yhteystiedot
+#     url: '#yhteys'
+#     weight: 40
