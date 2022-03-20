@@ -10,9 +10,9 @@
 #   # - name: Blogi
 #   #   url: '#blogi'
 #   #   weight: 20
-#   - name: Kurssit
-#     url: kurssit/
-#     weight: 30
+   - name: R-kurssit
+     url: R-kurssit/
+     weight: 10
 #   - name: Yhteystiedot
 #     url: '#yhteys'
 #     weight: 40
