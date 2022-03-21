@@ -6,7 +6,7 @@ Kursseille ei ole ennakkotietovaatimuksia, mutta sekä R että RStudio on hyvä 
 
 ## R haltuun 10 tunnissa
 
-Tämä noin 10 tunnin laajuinen kurssi soveltuu esimerkiksi tutkijoille, data-analyytikoille ja datatieteilijöille - kaikille, jotka haluavat tutustua R-ohjelmointiin ja tehdä tilastollisia analyysejä R:ää käyttäen. Kurssi on mahdollista toteuttaa joko kahden päivän intensiivijaksona tai esimerkiksi lyhyemmissä 1-2 tunnin sessiossa kahden viikon aikana. 
+Tämä noin 10 tunnin laajuinen kurssi soveltuu esimerkiksi tutkijoille, data-analyytikoille ja datatieteilijöille - kaikille, jotka haluavat tutustua R-ohjelmointiin ja tehdä tilastollisia analyysejä R:ää käyttäen. Kurssi on mahdollista toteuttaa joko kahden päivän intensiivijaksona tai esimerkiksi lyhyemmissä 1-2 tunnin sessioissa kahden viikon aikana. 
 
 Kurssin suoritettuasi osaat:
 - tuoda datan R:ään
@@ -22,7 +22,7 @@ Kurssin suoritettuasi osaat myös etsiä itsenäisesti apua mahdollisiin virhe- 
 
 Tämä noin 6 tunnin laajuinen kurssi soveltuu kaikille, jotka haluavat päästä alkuun R:n käytössä.
 
-Kurssi on mahdollista toteuttaa joko yhden päivän intensiivijaksona tai esimerkiksi lyhyemmissä 1-2 tunnin sessiossa yhden viikon aikana. 
+Kurssi on mahdollista toteuttaa joko yhden päivän intensiivijaksona tai esimerkiksi lyhyemmissä 1-2 tunnin sessioissa yhden viikon aikana. 
 
 Kurssin suoritettuasi osaat:
 - tuoda datan R:ään
